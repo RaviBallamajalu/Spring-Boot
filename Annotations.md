@@ -4,7 +4,7 @@
  ### @SpringBootApplication
  * Used to identify the main class of a Spring Boot application.
  * It Consits of 3 Other Annotation @Configuration, @EnableAutoConfiguration, and @ComponentScan
- * @ Configuration : The class annotated with @Configuration used by Spring Containers as a source of bean definitions.
+ * @Configuration : The class annotated with @Configuration used by Spring Containers as a source of bean definitions.
  * @EnableAutoConfiguration : This makes the application to look for auto-configuration beans on its classpath and automatically applies them.
  * @ComponentScan : Used scan a package for beans.
 
